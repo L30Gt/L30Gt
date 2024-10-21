@@ -5,7 +5,7 @@
 [![Discord Badge](https://img.shields.io/badge/L30Gt-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/468449698479341572)
 ![View Counter](https://komarev.com/ghpvc/?username=L30Gt&style=flat-square)
 
-I am a graduate in Systems Development (technical level) and currently a student of Computer Systems Analysis at IFSP. <br> 
+I am a graduate in Systems Development (technical level) and currently studying Systems Analysis and Development at IFSP. <br> 
 Focused on Backend development. <br>
 I am always seeking to learn more and improve what I already know.
 
